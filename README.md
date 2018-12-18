@@ -27,7 +27,7 @@
 
 ### Client Side
 1. Web Browser
-![001](./images/image1.jpg)
+![001](./images/image1.JPG)
 2. Unity
 
 ### Azure Functions
