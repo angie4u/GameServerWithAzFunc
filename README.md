@@ -27,6 +27,11 @@
     * Benchmark test and Logging should be considered   
     * Use [Message Pack](https://msgpack.org/) for serialization 
 
+2. .NET Core 
+    * WebSockets
+        * Sample Link: [https://github.com/aspnet/Docs/tree/master/aspnetcore/fundamentals/websockets/samples/2.x/WebSocketsSample](https://github.com/aspnet/Docs/tree/master/aspnetcore/fundamentals/websockets/samples/2.x/WebSocketsSample)  
+        * [https://radu-matei.com/blog/real-time-aspnet-core/](https://radu-matei.com/blog/real-time-aspnet-core/)
+
 ### Client Side
 1. Web Browser
 ![001](./images/image1.JPG)
@@ -44,3 +49,4 @@
 ## Useful Links and Tools
 * WebSocket test tool : [https://www.websocket.org/echo.html](https://www.websocket.org/echo.html)
 * [Create a websocket server in .net core console application](https://stackoverflow.com/questions/48342919/create-a-websocket-server-in-net-core-console-application)
+* [https://radu-matei.com/blog/aspnet-core-websockets-middleware/](https://radu-matei.com/blog/aspnet-core-websockets-middleware/)
